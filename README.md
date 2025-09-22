@@ -1,2 +1,16 @@
-# 35
-CSS For HTML Program-26
+.flex-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: beige;
+    padding: 20px;
+    height: 200px;
+}
+.box{
+    background-color:lightgreen;
+    color: white;
+    padding: 20px;
+    font-size: 12px;
+    border-radius: 8px;
+    width: 100px;
+}
